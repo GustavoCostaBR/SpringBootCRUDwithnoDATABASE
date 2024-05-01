@@ -1,0 +1,4 @@
+<nav>
+	<a href="/create">Create New ToDo</a> <a href="/viewtodolist">View
+		List of ToDos</a>
+</nav>
